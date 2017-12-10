@@ -35,5 +35,9 @@ p.card-text.text-center {
 	padding-bottom:
 }
 */
+/*news*/
+img {
+  max-width: 100%; }
+
 .footer {
   padding-top: 20px; }
