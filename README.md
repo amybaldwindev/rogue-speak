@@ -1,3 +1,7 @@
+# Description
+
+This is a tempalate made in Bootstrap-4 which has been intergrated into wordpress.
+
 # bootstrap-4-sass
 
 Based on the instructions created by Gary Simon for coursetro.com found at: 
